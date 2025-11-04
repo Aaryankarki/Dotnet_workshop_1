@@ -23,8 +23,10 @@ class Program
             {3, "Mango"}
 
         };
-          Console.WriteLine();
+        Console.WriteLine();
+        //adding
         fruitDict.Add(4, "Orange");
+        //showing in foreach
         foreach(var dt in fruitDict)
         {
               Console.WriteLine($"{dt.Key} -> {dt.Value}");
