@@ -8,7 +8,7 @@ class Program
         DateTime currentDate = DateTime.Now;
         TimeSpan ageSpan = currentDate - birthDate;
         int ageYear = (int)(ageSpan.TotalDays / 365);
-
+//showing all birthdates,currentdate and ageyear
         Console.WriteLine("Birthdate: " + birthDate.ToShortDateString());
         Console.WriteLine("Current Date: " + currentDate.ToShortDateString());
         Console.WriteLine("Age: " + ageYear + " years");
