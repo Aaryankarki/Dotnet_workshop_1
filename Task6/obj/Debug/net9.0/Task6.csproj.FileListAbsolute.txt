@@ -1,0 +1,14 @@
+/Users/mcabook/dotnet env/Task6/bin/Debug/net9.0/Task6
+/Users/mcabook/dotnet env/Task6/bin/Debug/net9.0/Task6.deps.json
+/Users/mcabook/dotnet env/Task6/bin/Debug/net9.0/Task6.runtimeconfig.json
+/Users/mcabook/dotnet env/Task6/bin/Debug/net9.0/Task6.dll
+/Users/mcabook/dotnet env/Task6/bin/Debug/net9.0/Task6.pdb
+/Users/mcabook/dotnet env/Task6/obj/Debug/net9.0/Task6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mcabook/dotnet env/Task6/obj/Debug/net9.0/Task6.AssemblyInfoInputs.cache
+/Users/mcabook/dotnet env/Task6/obj/Debug/net9.0/Task6.AssemblyInfo.cs
+/Users/mcabook/dotnet env/Task6/obj/Debug/net9.0/Task6.csproj.CoreCompileInputs.cache
+/Users/mcabook/dotnet env/Task6/obj/Debug/net9.0/Task6.dll
+/Users/mcabook/dotnet env/Task6/obj/Debug/net9.0/refint/Task6.dll
+/Users/mcabook/dotnet env/Task6/obj/Debug/net9.0/Task6.pdb
+/Users/mcabook/dotnet env/Task6/obj/Debug/net9.0/Task6.genruntimeconfig.cache
+/Users/mcabook/dotnet env/Task6/obj/Debug/net9.0/ref/Task6.dll
